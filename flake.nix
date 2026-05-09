@@ -22,6 +22,7 @@
           packages = with pkgs; [
             gcc
             ac-library
+            boost
           ];
         };
       }
